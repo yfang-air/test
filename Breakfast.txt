@@ -2,3 +2,4 @@ June 3 2020
 My favorite breakfast is a traditional Chinese breakfast
 It has soymilk, fried eggs and Chinese Youtiao (Chinese Fried Dough)
 
+What type of files can we create in the repository...
